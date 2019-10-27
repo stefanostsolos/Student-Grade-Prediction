@@ -1,7 +1,7 @@
 # Student-Grade-Prediction
-Predict students' performance in high school, using Linear Regression and training multiple models.
+Predict student's performance in high school, using Linear Regression and training multiple models.
 
-We are using first(G1) and second(G2) period grade in Mathematics, along other attributes such as student's health, free time, family relationships, school support, to predict the final (G3) grade. 33 variable attributes are available to choose from, but of course G1 and G2 should be included to make our prediction more accurate. 
+We are using first(G1) and second(G2) period grade in a subject e.g. Mathematics, along other attributes such as student's health, free time, family relationships, school support, to predict the final (G3) grade. 33 variable attributes are available to choose from, but of course G1 and G2 should be included to make our prediction more accurate. I managed to score a 96.6% accuracy after training the model and finding the best accuracy.
 
 Using a dataset collected in a high school, by using school reports and questionnaires.
 The full list of attribute variables can be found on: https://archive.ics.uci.edu/ml/datasets/Student+Performance
