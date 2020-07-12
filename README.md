@@ -6,5 +6,3 @@ We are using first (G1) and second (G2) period grade in a subject e.g. Mathemati
 Using a dataset collected in a high school, by collecting school reports and questionnaires.
 The full list of attribute variables can be found on: https://archive.ics.uci.edu/ml/datasets/Student+Performance (UCI Machine Learning Repository).
 [P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. ]
-
-Special thanks to techwithtim.net !
